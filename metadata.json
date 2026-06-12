@@ -1,0 +1,6 @@
+{
+  "name": "Claim Dashboard PRO5",
+  "description": "Professional multi-sheet medical claims audit and billing compliance dashboard featuring Executive KPIs, District Summaries, Facility Fee Matrices, Audit Checks, and Comparative Charts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
